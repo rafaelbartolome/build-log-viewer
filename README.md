@@ -4,6 +4,8 @@ A small native macOS app for reading noisy CI build logs.
 
 Build Log Viewer cleans terminal escape sequences, normalizes line endings, removes empty display rows, and highlights the lines that usually matter most: errors, warnings, build-failure summaries, and Fastlane/Xcode exit status messages.
 
+<img width="1312" height="766" alt="Screenshot 2026-05-15 at 18 16 18" src="https://github.com/user-attachments/assets/8ca26f8a-eb76-480f-bf88-91201d6fcf74" />
+
 ## Features
 
 - Open `.log` and plain-text files from disk.
