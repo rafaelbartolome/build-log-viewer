@@ -1,0 +1,10 @@
+.DS_Store
+/.build
+/AppBundle/BuildLogViewer.icns
+/AppBundle/BuildLogViewer.iconset
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
